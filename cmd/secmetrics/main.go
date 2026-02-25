@@ -46,7 +46,7 @@ func main() {
 }
 
 func printUsage() {
-	fmt.Printf(`secmetrics - Security Metrics & KPI Dashboard
+	fmt.Print(`secmetrics - Security Metrics & KPI Dashboard
 
 Usage:
   secmetrics <command> [options]
